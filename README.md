@@ -26,10 +26,6 @@ This project runs an open-source clone of the classic 1993 DOOM game on a Beagle
 ## Installation
 
 1. **Clone the Repository:**
-   ```
-   git clone https://github.com/your-repo/BeagleDOOM.git
-   cd BeagleDOOM
-   ```
 
 2. **Setup the Hardware:**
    - Assemble the hardware according to the circuit diagrams provided in the `docs` folder.
