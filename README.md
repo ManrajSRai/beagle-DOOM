@@ -50,21 +50,18 @@ To start the game:
 2. Use the joystick to navigate the game menus.
 3. Play DOOM using the custom controller, and observe your game stats in real-time on the LCD and LED displays.
 
-## Contributing
-
-Interested in contributing? Great! You can contribute in several ways:
-- Submit bug reports and feature requests.
-- Propose updates to documentation.
-- Review code and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - Chocolate DOOM community for the base game engine.
 - Freedoom project for additional game levels.
 - All project contributors and the open-source community.
 
-For detailed documentation on the hardware setup and the full list of software dependencies, please refer to the `docs` folder.
+## Demo
+
+https://github.com/ManrajSRai/beagle-DOOM/assets/74273268/a41fec15-fce6-4803-a391-b60bb30550ae
+
+![setup](https://github.com/ManrajSRai/beagle-DOOM/assets/74273268/f284ec7b-15e2-4a73-aec9-ae5344781172)
+
+
+
+For detailed documentation on the hardware setup and the full list of software dependencies, please refer to the pdf files
