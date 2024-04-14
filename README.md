@@ -1,7 +1,7 @@
 
 # BeagleDOOM
 
-Welcome to the BeagleDOOM project repository! This project is an attempt to run an open-source clone of the classic 1993 DOOM game on a Beaglebone board with a custom-built controller. This README provides an overview of the project, installation instructions, and usage details.
+This project runs an open-source clone of the classic 1993 DOOM game on a Beaglebone board with a custom-built controller. This README provides an overview of the project, installation instructions, and usage details.
 
 ## Project Overview
 
